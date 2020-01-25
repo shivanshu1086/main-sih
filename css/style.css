@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 html,body{
     height: 100%;
@@ -5,6 +7,8 @@ html,body{
     font-family: 'Poppins', 'sans-serif';
     color: #222;
 }
+
+
 /* Navbar css */
 /* .navbar{
     /* padding: 0.5%; */
@@ -85,6 +89,15 @@ html,body{
 
 /* Details css ends */
 
+/* Cards */
+
+
+#app-features .contain{
+    text-align: center;
+}
+
+
+/* Cards Ends */
 .my-4{
     border-bottom: 2px solid #b4b4b4;
 }
