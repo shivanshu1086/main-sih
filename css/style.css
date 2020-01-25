@@ -26,7 +26,7 @@ html,body{
     padding-right: 50px;
 }
 .nav-link{
-    color: rgb(255,0,0)!important;
+    color: #e71952!important;
     transition-duration: .8s;
     /* font-size: 1.1rem !important; */
 }
