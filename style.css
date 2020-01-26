@@ -82,7 +82,14 @@ h1 .subtext {
   border-right: 5px solid black;
   background: #e71952;
 }
-
+.inp{
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+}
+.inp:focus{
+  border: 3px solid #555;
+}
 .split-left h1{
   color: white;
 }
