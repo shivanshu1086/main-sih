@@ -13,7 +13,7 @@ const TOPK = 10;
 
 const predictionThreshold = 0.98
 
-var words = ["hey google", "hello", "other"]
+var words = ["hey google", "hello"]
 // var words = ["hey google", "hello", "what is", "the weather", "the time",
 //"add","eggs","to the list","five","feet","in meters","tell me","a joke", "bye", "other"]
 
